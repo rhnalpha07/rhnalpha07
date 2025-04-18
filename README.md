@@ -12,7 +12,7 @@ I'm a **Computer Science student** who's currently learning **Python** for **Mac
 - 🎶 **Music**: Coding while listening to music, because who doesn’t need some jams to avoid going crazy? 😅
 
 ## 💡 Goals
-- **Create a startup**: My dream is to build a successful startup, but I don’t want it to be a "sleeping startup." 😆
+- **a startup**: My dream is to build a successful startup, but I don’t want it to be a "sleeping startup." 😆
 - **Keep Learning**: Because I believe there's no such thing as "too late" to learn something new! 😜
 
 ---
